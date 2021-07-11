@@ -49,8 +49,8 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 
 <br>
 <p float="left">
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/butterfly.jpg"/>
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/animebutterfly.jpg"/> 
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/butterfly.jpg" width="300"/>
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animebutterfly.jpg" width="300"/> 
 </p>
 
 
