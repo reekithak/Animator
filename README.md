@@ -37,12 +37,21 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 ## Testing the Application and Outputs
 
 <p float="left">
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/tomcruise.jpg" width="100" />
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/animetomcruise.jpg" width="100" /> 
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/tomcruise.jpg"/>
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animetomcruise.jpg"/> 
+</p> 
+
+<br>
+<p float="left">
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/reves.JPG"/>
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animereves.jpg"/> 
 </p>
 
-
-<img src="">
+<br>
+<p float="left">
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/butterfly.jpg"/>
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animebutterfly.jpg"/> 
+</p>
 
 
 ## Run the Application in your own Device ?
