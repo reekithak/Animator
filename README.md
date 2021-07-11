@@ -37,14 +37,14 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 ## Testing the Application and Outputs
 
 <p float="left">
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/tomcruise.jpg"/>
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/animetomcruise.jpg"/> 
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/tomcruise.jpg" width="300"/>
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animetomcruise.jpg" width="300"/> 
 </p> 
 
 <br>
 <p float="left">
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/reves.JPG"/>
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/animereves.jpg"/> 
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/reves.JPG" width="300" />
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animereves.jpg" width="300" /> 
 </p>
 
 <br>
