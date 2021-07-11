@@ -25,6 +25,16 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 - Cartoon Set -> [Get it here](https://google.github.io/cartoonset/)
 <img src="https://github.com/reekithak/Animator-Modules/blob/main/images/cartoonGan.JPG">
 
+## User Interface
+- Using Simple Html-Css UI.
+### Input UI
+<img src="https://github.com/reekithak/Animator/blob/main/templates/simpleui.JPG">
+### Output UI
+<img src="https://github.com/reekithak/Animator/blob/main/templates/outputUI.JPG">
+
+
+
+
 ## Run the Application in your own Device ?
 
 ### Step 1:
