@@ -25,7 +25,7 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 - Cartoon Set -> [Get it here](https://google.github.io/cartoonset/)
 <img src="https://github.com/reekithak/Animator-Modules/blob/main/images/cartoonGan.JPG">
 
-## Run the API in your own Device ?
+## Run the Application in your own Device ?
 
 ### Step 1:
 Install [Python 3.7](https://www.python.org/downloads/release/python-370/)  
