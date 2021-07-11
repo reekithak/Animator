@@ -8,7 +8,7 @@ import traceback
 with open('./config.yaml', 'r') as fd:
     opts = yaml.safe_load(fd)
 
-sys.path.insert(0, './white_box_cartoonizer/')
+sys.path.insert(0, './animator_file/')
 
 import cv2
 from flask import Flask, render_template, make_response, flash
@@ -41,7 +41,7 @@ app.config['CARTOONIZED_FOLDER'] = 'static/cartoonized_images'
 app.config['OPTS'] = opts
 
 ## Init Cartoonizer and load its weights 
-wb_cartoonizer = WB_Cartoonize(os.path.abspath("white_box_cartoonizer/saved_models/"), opts['gpu'])
+wb_cartoonizer = WB_Cartoonize(os.path.abspath("animator_file/saved_models/"), opts['gpu'])
 
 def convert_bytes_to_image(img_bytes):
     """Convert bytes to numpy array

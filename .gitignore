@@ -3,3 +3,4 @@ __pycache__/
 static/uploaded_videos/*.mp4
 static/cartoonized_images/*.jpg
 cartoon/
+animator_file/
