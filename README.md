@@ -34,7 +34,15 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 ### Output UI
 <img src="https://github.com/reekithak/Animator/blob/main/templates/outputUI.JPG">
 
+## Testing the Application and Outputs
 
+<p float="left">
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/tomcruise.jpg" width="100" />
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animetomcruise.jpg" width="100" /> 
+</p>
+
+
+<img src="">
 
 
 ## Run the Application in your own Device ?
