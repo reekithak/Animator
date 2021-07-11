@@ -1,4 +1,5 @@
-# Animator :- Animate or Cartoonize your Images/Avatars
+# Animator 
+Animate or Cartoonize your Images/Avatars
 
 ## Implementation for animator modules:
 - Point to Note: <br> 
