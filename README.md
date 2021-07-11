@@ -44,8 +44,8 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 
 <br>
 <p float="left">
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/reves.JPG" width="300" />
-  <img src="https://github.com/reekithak/Animator/blob/main/templates/animereves.jpg" width="300" /> 
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/reves.JPG" width="300" height="500"/>
+  <img src="https://github.com/reekithak/Animator/blob/main/templates/animereves.jpg" width="300" height="500" /> 
 </p>
 
 <br>
