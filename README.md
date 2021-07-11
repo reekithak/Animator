@@ -20,7 +20,7 @@ Generator learns to make fakes that look real. Discriminator learns to distingui
 
 ## Flow of GAN:<br>  
 Noise → Generator → Features → Discriminator → Output → Cost (output)<br>
-<img src="https://github.com/reekithak/Animator-Modules/blob/main/images/GANFLow-1.JPG">
+<img src="https://github.com/reekithak/Animator-Modules/blob/main/images/GANFLow-1.JPG" >
 
 ## DataSet:<br>
 - Cartoon Set -> [Get it here](https://google.github.io/cartoonset/)
@@ -30,10 +30,10 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 - Using Simple Html-Css UI.
 
 ### Input UI
-<img src="https://github.com/reekithak/Animator/blob/main/templates/simpleui.JPG"> <br>
+<img src="https://github.com/reekithak/Animator/blob/main/templates/simpleui.JPG" width="300"> <br>
 
 ### Output UI
-<img src="https://github.com/reekithak/Animator/blob/main/templates/outputUI.JPG">
+<img src="https://github.com/reekithak/Animator/blob/main/templates/outputUI.JPG" width="300">
 
 ## Testing the Application and Outputs
 
