@@ -25,6 +25,41 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 - Cartoon Set -> [Get it here](https://google.github.io/cartoonset/)
 <img src="https://github.com/reekithak/Animator-Modules/blob/main/images/cartoonGan.JPG">
 
+## Run the API in your own Device ?
+
+### Step 1:
+Install [Python 3.7](https://www.python.org/downloads/release/python-370/)  
+Don't forget to add Path o Environment Varibales [Doubt?](https://www.educative.io/edpresso/how-to-add-python-to-path-variable-in-windows)
+
+Completely Optional:
+Install [Git](https://git-scm.com/downloads)
+
+### Step 2:
+Clone this Repository [Tutorial](https://www.youtube.com/watch?v=O72FWNeO-xY)
+
+### Step 3:
+From the root folder of the repository, open a commandline terminal/powershell and run the following commands:<br />
 
 
+`pip install virtualenv` :- Installs Virtualenv Python Module<br />
+`virtualenv ANY_NAME` :- Replace ANY_NAME with your choice of environment name<br />
+`.\ANY_NAME\Scripts\activate` :- Activates the Virtual Environment we just created<br />
+`pip install -r requirements.txt` :- Installs the Required Liraries , Takes time & Needs Space ("A lot")<br />
+
+
+### Step 4:
+Once all the Above is Completed , Lets run our Application.
+
+simply type in `python app.py` into the console / terminal.
+The application will be hosted into the local server.
+
+### Step 5:
+The Above steps makes it possible to run the Complete Application
+
+
+## Need the Complete Application along with the Models? 
+Reach out to us :). <br>
+[Akhil Sanker](https://www.linkedin.com/in/akhilsanker/)
+
+- NOTE: Open Source Code Used
 
