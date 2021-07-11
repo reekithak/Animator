@@ -27,8 +27,10 @@ Noise → Generator → Features → Discriminator → Output → Cost (output)<
 
 ## User Interface
 - Using Simple Html-Css UI.
+
 ### Input UI
-<img src="https://github.com/reekithak/Animator/blob/main/templates/simpleui.JPG">
+<img src="https://github.com/reekithak/Animator/blob/main/templates/simpleui.JPG"> <br>
+
 ### Output UI
 <img src="https://github.com/reekithak/Animator/blob/main/templates/outputUI.JPG">
 
